@@ -4,6 +4,8 @@
 단어를 빠르게 입력해 좀비를 무찌르자!  
 타이핑 실력을 기르고, 최후의 생존자가 되어보세요.
 
+![게임 스크린샷](https://github.com/github-spoo79/typing_monster/dist/screenshot.png)
+
 ## 🎮 게임 소개
 
 **Typing Monster**는 플레이어가 화면에 표시된 단어를 타이핑하여 좀비를 처치하는 아케이드 스타일의 타자 게임입니다.  
@@ -28,16 +30,16 @@
 
 ```bash
 # 프로젝트 클론
-git clone https://github.com/yourusername/typing-monster.git
+git clone https://github.com/github-spoo79/typing-monster.git
 cd typing-monster
 
 # python 실행
-git clone https://github.com/yourusername/typing-monster.git
+git clone https://github.com/github-spoo79/typing-monster.git
 cd typing-monster
 python main.py
 
 # 설치파일 실행
-git clone https://github.com/yourusername/typing-monster.git
+git clone https://github.com/github-spoo79/typing-monster.git
 cd typing-monster
 cd setup
 typing_monster.exe

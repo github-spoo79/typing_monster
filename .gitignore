@@ -1,0 +1,6 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Windows installer script
+typing_mosnter_setup_script.iss
