@@ -4,7 +4,7 @@
 단어를 빠르게 입력해 좀비를 무찌르자!  
 타이핑 실력을 기르고, 최후의 생존자가 되어보세요.
 
-![게임 스크린샷](https://github.com/github-spoo79/typing_monster/dist/screenshot.png)
+![게임 스크린샷](https://github.com/github-spoo79/typing_monster/blob/main/dist/screenshot.png)
 
 ## 🎮 게임 소개
 
